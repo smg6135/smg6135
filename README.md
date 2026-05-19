@@ -120,19 +120,6 @@ ML/NLP           language analysis, time-series models, applied ML systems
 
 ---
 
-## Better pins for traction
-
-For recruiters or founders landing here, I would pin:
-
-1. **IsTSreal** — shows product/AI/frontend direction.
-2. **algoRepo** — shows algorithmic thinking and explanations.
-3. **A public AI agent demo** — recommended next repo: `mcp-agent-lab` or `rag-eval-playground`.
-4. **A full-stack dashboard demo** — recommended next repo: `ai-agent-dashboard` using Next.js + FastAPI.
-5. **UofTHacks backend writeup** — even if code stays private, publish a short architecture README.
-6. **Production AI case study** — sanitized writeup: tool-calling latency, eval design, deployment architecture.
-
----
-
 ## Contact
 
 - LinkedIn: <a href="https://www.linkedin.com/in/mingon-song/">Mingon Song</a>
