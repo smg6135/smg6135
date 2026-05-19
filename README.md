@@ -68,7 +68,7 @@ ML/NLP           language analysis, time-series models, applied ML systems
       <p><b>Focus:</b> Node.js, Express.js, MariaDB, production event systems</p>
     </td>
     <td width="50%">
-      <h3>Production AI agents</h3>
+      <h3>Production AI agents ([CarAI](https://carai.com) </h3>
       <p><b>Work:</b> voice AI agents, MCP servers, tool calling, AWS EKS deployment</p>
       <p>Built customer-facing AI agent systems with measurable latency and accuracy improvements.</p>
       <p><b>Focus:</b> LLMs, MCP, RAG, CI/CD, customer workflows</p>
