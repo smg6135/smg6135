@@ -97,16 +97,31 @@ ML/NLP           language analysis, time-series models, applied ML systems
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=smg6135&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smg6135&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=smg6135&show_icons=true&hide_border=true&theme=tokyonight"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=smg6135&show_icons=true&hide_border=true"
+      alt="GitHub stats"
+    />
+  </picture>
+
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=smg6135&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      height="165"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=smg6135&layout=compact&langs_count=8&hide_border=true"
+      alt="Top languages"
+    />
+  </picture>
+</p>
 
 <br/>
 
