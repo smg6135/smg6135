@@ -62,7 +62,9 @@ ML/NLP           language analysis, time-series models, applied ML systems
 <table>
   <tr>
     <td width="50%">
-      <h3> [CarAI](https://carai.com) </h3>
+      <h3>
+        <a href="https://carai.com">CarAI</a>
+      </h3>
       <p><b>Work:</b> voice AI agents, MCP servers, tool calling, AWS EKS deployment</p>
       <p>Built customer-facing AI agent systems with measurable latency and accuracy improvements.</p>
       <p><b>Focus:</b> LLMs, MCP, RAG, CI/CD, customer workflows</p>
