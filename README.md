@@ -36,6 +36,20 @@ ML/NLP           language analysis, time-series models, applied ML systems
 
 ---
 
+## Stats are cool 😎
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=smg6135&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smg6135&theme=tokyonight" alt="Profile summary" />
+
+</div>
+
+---
+
 ## Tech stack
 
 <div align="center">
@@ -90,20 +104,6 @@ ML/NLP           language analysis, time-series models, applied ML systems
     </td>
   </tr>
 </table>
-
----
-
-## Stats are cool 😎
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=smg6135&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smg6135&theme=tokyonight" alt="Profile summary" />
-
-</div>
 
 ---
 
