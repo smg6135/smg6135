@@ -63,7 +63,7 @@ ML/NLP           language analysis, time-series models, applied ML systems
   <tr>
     <td width="50%">
       <h3>
-        <a href="https://carai.com">CarAI</a>
+        <a href="https://carai.com" target="_blank">CarAI</a>
       </h3>
       <p><b>Work:</b> voice AI agents, MCP servers, tool calling, AWS EKS deployment</p>
       <p>Built customer-facing AI agent systems with measurable latency and accuracy improvements.</p>
@@ -79,7 +79,7 @@ ML/NLP           language analysis, time-series models, applied ML systems
   <tr>
     <td width="50%">
       <h3>AI companion for "doom scrolling"</h3>
-      <p><b>Repo:</b> <a href="https://github.com/smg6135/IsTSreal">IsTSreal</a></p>
+      <p><b>Repo:</b> <a href="https://github.com/smg6135/IsTSreal" target="_blank">IsTSreal</a></p>
       <p>🥉 3rd place in OpenBuild - Chrome Extension exploring AI-assisted interaction around online content and user attention.</p>
       <p><b>Focus:</b> AI UX, social/product behavior, frontend experimentation</p>
     </td>
