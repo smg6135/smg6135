@@ -93,23 +93,9 @@ ML/NLP           language analysis, time-series models, applied ML systems
 
 ---
 
-## GitHub activity
+## Stats are cool 😎
 
 <div align="center">
-  
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smg6135&theme=tokyonight" alt="GitHub profile summary" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=smg6135&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=smg6135&theme=tokyonight&utcOffset=-5" alt="Productive time" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smg6135&theme=tokyonight" alt="Repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smg6135&theme=tokyonight" alt="Most commit language" />
-</p>
 
 <img src="https://streak-stats.demolab.com?user=smg6135&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
