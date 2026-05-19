@@ -6,19 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mingon%20Song-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mingon-song/)
 [![GitHub](https://img.shields.io/badge/GitHub-smg6135-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smg6135)
 
-<img src="https://streak-stats.demolab.com?user=smg6135&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smg6135&theme=tokyonight" alt="Profile summary" />
-
-</div>
-
 ---
-
-## Tech stack
-
-<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -34,6 +22,12 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+<img src="https://streak-stats.demolab.com?user=smg6135&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smg6135&theme=tokyonight" alt="Profile summary" />
 
 </div>
 
