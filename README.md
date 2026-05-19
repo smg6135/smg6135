@@ -62,23 +62,23 @@ ML/NLP           language analysis, time-series models, applied ML systems
 <table>
   <tr>
     <td width="50%">
+      <h3> [CarAI](https://carai.com) </h3>
+      <p><b>Work:</b> voice AI agents, MCP servers, tool calling, AWS EKS deployment</p>
+      <p>Built customer-facing AI agent systems with measurable latency and accuracy improvements.</p>
+      <p><b>Focus:</b> LLMs, MCP, RAG, CI/CD, customer workflows</p>
+    </td>
+    <td width="50%">
       <h3>UofTHacks systems</h3>
       <p><b>Work:</b> backend APIs, dashboards, judging tools, RAG chat, team finder</p>
       <p>Built and maintained real-time hackathon infrastructure for hundreds of participants and 1,600+ applicants.</p>
       <p><b>Focus:</b> Node.js, Express.js, MariaDB, production event systems</p>
     </td>
-    <td width="50%">
-      <h3>Production AI agents ([CarAI](https://carai.com) </h3>
-      <p><b>Work:</b> voice AI agents, MCP servers, tool calling, AWS EKS deployment</p>
-      <p>Built customer-facing AI agent systems with measurable latency and accuracy improvements.</p>
-      <p><b>Focus:</b> LLMs, MCP, RAG, CI/CD, customer workflows</p>
-    </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>AI companion for doom scrolling</h3>
+      <h3>AI companion for "doom scrolling"</h3>
       <p><b>Repo:</b> <a href="https://github.com/smg6135/IsTSreal">IsTSreal</a></p>
-      <p>JavaScript project exploring AI-assisted interaction around online content and user attention.</p>
+      <p>🥉 3rd place in OpenBuild - Chrome Extension exploring AI-assisted interaction around online content and user attention.</p>
       <p><b>Focus:</b> AI UX, social/product behavior, frontend experimentation</p>
     </td>
     <td width="50%">
