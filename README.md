@@ -5,9 +5,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mingon%20Song-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mingon-song/)
 [![GitHub](https://img.shields.io/badge/GitHub-smg6135-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smg6135)
-[![AWS](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
 
-<img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Production+AI+Agents;LLM+Tool+Calling+%2B+MCP;Retrieval-Augmented+Generation;FastAPI+%7C+Node.js+%7C+Next.js;Shipping+AI+systems+that+users+actually+touch" alt="Typing SVG" />
+<img src="https://streak-stats.demolab.com?user=smg6135&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smg6135&theme=tokyonight" alt="Profile summary" />
 
 </div>
 
@@ -33,20 +36,6 @@ Backend          APIs, service orchestration, auth, deployment, CI/CD
 Full stack       dashboards, customer workflows, internal tools
 ML/NLP           language analysis, time-series models, applied ML systems
 ```
-
----
-
-## Stats are cool 😎
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=smg6135&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smg6135&theme=tokyonight" alt="Profile summary" />
-
-</div>
 
 ---
 
