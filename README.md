@@ -63,20 +63,6 @@ ML/NLP           language analysis, time-series models, applied ML systems
 <table>
   <tr>
     <td width="50%">
-      <h3>AI companion for doom scrolling</h3>
-      <p><b>Repo:</b> <a href="https://github.com/smg6135/IsTSreal">IsTSreal</a></p>
-      <p>JavaScript project exploring AI-assisted interaction around online content and user attention.</p>
-      <p><b>Focus:</b> AI UX, social/product behavior, frontend experimentation</p>
-    </td>
-    <td width="50%">
-      <h3>Algorithm explanation archive</h3>
-      <p><b>Repo:</b> <a href="https://github.com/smg6135/algoRepo">algoRepo</a></p>
-      <p>Personal archive of algorithm solutions and explanations, useful for showing problem-solving depth.</p>
-      <p><b>Focus:</b> Python, algorithms, technical communication</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
       <h3>UofTHacks systems</h3>
       <p><b>Work:</b> backend APIs, dashboards, judging tools, RAG chat, team finder</p>
       <p>Built and maintained real-time hackathon infrastructure for hundreds of participants and 1,600+ applicants.</p>
@@ -87,6 +73,19 @@ ML/NLP           language analysis, time-series models, applied ML systems
       <p><b>Work:</b> voice AI agents, MCP servers, tool calling, AWS EKS deployment</p>
       <p>Built customer-facing AI agent systems with measurable latency and accuracy improvements.</p>
       <p><b>Focus:</b> LLMs, MCP, RAG, CI/CD, customer workflows</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>AI companion for doom scrolling</h3>
+      <p><b>Repo:</b> <a href="https://github.com/smg6135/IsTSreal">IsTSreal</a></p>
+      <p>JavaScript project exploring AI-assisted interaction around online content and user attention.</p>
+      <p><b>Focus:</b> AI UX, social/product behavior, frontend experimentation</p>
+    </td>
+    <td width="50%">
+      <h3>Coming Soon...</h3>
+      <p>AI applications for "normals".</p>
+      <p><b>Focus:</b> LLMs, MCP, GraphRAG, customer workflows, Second Brain</p>
     </td>
   </tr>
 </table>
