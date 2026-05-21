@@ -85,7 +85,7 @@ ML/NLP           language analysis, time-series models, applied ML systems
     </td>
     <td width="50%">
       <h3>Coming Soon...</h3>
-      <p>AI applications for "normals".</p>
+      <p>Local first AI applications for majority.</p>
       <p><b>Focus:</b> LLMs, MCP, GraphRAG, customer workflows, Second Brain</p>
     </td>
   </tr>
